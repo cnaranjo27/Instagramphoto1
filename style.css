@@ -1,0 +1,123 @@
+body{
+
+    background: grey;
+    
+}
+
+.A {
+
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-style: solid;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    
+
+}
+
+.B{
+
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-style: solid;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+.C{
+
+
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-style: solid;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+}
+
+
+
+.A1{
+
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+}
+.A1izquierda{
+
+    font-weight: bold;
+}
+
+.A1derecha{
+
+    color: grey;
+
+}
+
+.A3{
+
+    width: 400px;
+    font-size: small;
+    height: 50px;
+    text-align: justify;
+}
+
+
+.B1{
+
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+}
+.B1izquierda{
+
+    font-weight: bold;
+}
+
+.B1derecha{
+
+    color: grey;
+
+}
+
+.B3{
+
+    width: 400px;
+    font-size: small;
+    height: 50px;
+    text-align: justify;
+}
+
+.C1{
+
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+}
+.C1izquierda{
+
+    font-weight: bold;
+}
+
+.C1derecha{
+
+    color: grey;
+
+}
+
+.C3{
+
+    width: 400px;
+    font-size: small;
+    height: 50px;
+    text-align: justify;
+}
